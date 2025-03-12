@@ -1,0 +1,446 @@
+
+basegameMeterIcon_land.png
+size: 206,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meterIcon
+  rotate: true
+  xy: 141, 46
+  size: 70, 63
+  orig: 72, 65
+  offset: 1, 1
+  index: -1
+meterIconBurnOut
+  rotate: true
+  xy: 2, 2
+  size: 114, 137
+  orig: 300, 300
+  offset: 96, 81
+  index: -1
+
+basegameMeterIcon_land.jpg
+size: 1632,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/starBurst_00
+  rotate: true
+  xy: 1510, 16
+  size: 143, 120
+  orig: 640, 480
+  offset: 250, 325
+  index: -1
+FX/starBurst_01
+  rotate: false
+  xy: 171, 5
+  size: 157, 139
+  orig: 640, 480
+  offset: 245, 318
+  index: -1
+FX/starBurst_02
+  rotate: false
+  xy: 1134, 3
+  size: 157, 151
+  orig: 640, 480
+  offset: 244, 314
+  index: -1
+FX/starBurst_03
+  rotate: false
+  xy: 512, 156
+  size: 160, 158
+  orig: 640, 480
+  offset: 242, 312
+  index: -1
+FX/starBurst_04
+  rotate: false
+  xy: 1016, 156
+  size: 162, 161
+  orig: 640, 480
+  offset: 241, 311
+  index: -1
+FX/starBurst_05
+  rotate: true
+  xy: 1183, 318
+  size: 162, 164
+  orig: 640, 480
+  offset: 241, 310
+  index: -1
+FX/starBurst_06
+  rotate: true
+  xy: 681, 317
+  size: 164, 166
+  orig: 640, 480
+  offset: 240, 310
+  index: -1
+FX/starBurst_07
+  rotate: true
+  xy: 854, 483
+  size: 165, 167
+  orig: 640, 480
+  offset: 240, 310
+  index: -1
+FX/starBurst_08
+  rotate: true
+  xy: 1023, 483
+  size: 165, 167
+  orig: 640, 480
+  offset: 240, 309
+  index: -1
+FX/starBurst_09
+  rotate: true
+  xy: 1192, 482
+  size: 166, 167
+  orig: 640, 480
+  offset: 239, 309
+  index: -1
+FX/starBurst_10
+  rotate: true
+  xy: 1361, 482
+  size: 166, 167
+  orig: 640, 480
+  offset: 239, 309
+  index: -1
+FX/starBurst_11
+  rotate: true
+  xy: 172, 146
+  size: 166, 167
+  orig: 640, 480
+  offset: 239, 309
+  index: -1
+FX/starBurst_12
+  rotate: false
+  xy: 2, 142
+  size: 167, 167
+  orig: 640, 480
+  offset: 237, 309
+  index: -1
+FX/starBurst_13
+  rotate: false
+  xy: 343, 315
+  size: 167, 166
+  orig: 640, 480
+  offset: 237, 309
+  index: -1
+FX/starBurst_14
+  rotate: false
+  xy: 2, 480
+  size: 168, 168
+  orig: 640, 480
+  offset: 236, 309
+  index: -1
+FX/starBurst_15
+  rotate: false
+  xy: 2, 311
+  size: 168, 167
+  orig: 640, 480
+  offset: 236, 309
+  index: -1
+FX/starBurst_16
+  rotate: false
+  xy: 172, 314
+  size: 168, 166
+  orig: 640, 480
+  offset: 235, 309
+  index: -1
+FX/starBurst_17
+  rotate: false
+  xy: 172, 482
+  size: 169, 166
+  orig: 640, 480
+  offset: 234, 309
+  index: -1
+FX/starBurst_18
+  rotate: false
+  xy: 343, 483
+  size: 169, 165
+  orig: 640, 480
+  offset: 234, 309
+  index: -1
+FX/starBurst_19
+  rotate: false
+  xy: 512, 316
+  size: 167, 165
+  orig: 640, 480
+  offset: 235, 309
+  index: -1
+FX/starBurst_20
+  rotate: false
+  xy: 514, 483
+  size: 168, 165
+  orig: 640, 480
+  offset: 234, 309
+  index: -1
+FX/starBurst_21
+  rotate: false
+  xy: 684, 483
+  size: 168, 165
+  orig: 640, 480
+  offset: 234, 309
+  index: -1
+FX/starBurst_22
+  rotate: true
+  xy: 1349, 320
+  size: 160, 165
+  orig: 640, 480
+  offset: 242, 309
+  index: -1
+FX/starBurst_23
+  rotate: true
+  xy: 849, 157
+  size: 160, 165
+  orig: 640, 480
+  offset: 242, 309
+  index: -1
+FX/starBurst_24
+  rotate: true
+  xy: 849, 319
+  size: 162, 165
+  orig: 640, 480
+  offset: 241, 309
+  index: -1
+FX/starBurst_25
+  rotate: true
+  xy: 1016, 319
+  size: 162, 165
+  orig: 640, 480
+  offset: 241, 309
+  index: -1
+FX/starBurst_26
+  rotate: true
+  xy: 1180, 159
+  size: 157, 163
+  orig: 640, 480
+  offset: 241, 310
+  index: -1
+FX/starBurst_27
+  rotate: true
+  xy: 1349, 161
+  size: 157, 163
+  orig: 640, 480
+  offset: 241, 310
+  index: -1
+FX/starBurst_28
+  rotate: true
+  xy: 1345, 2
+  size: 157, 163
+  orig: 640, 480
+  offset: 241, 310
+  index: -1
+FX/starBurst_29
+  rotate: false
+  xy: 674, 153
+  size: 154, 161
+  orig: 640, 480
+  offset: 242, 311
+  index: -1
+FX/starBurst_30
+  rotate: true
+  xy: 341, 2
+  size: 153, 162
+  orig: 640, 480
+  offset: 242, 309
+  index: -1
+FX/starBurst_31
+  rotate: true
+  xy: 505, 2
+  size: 152, 161
+  orig: 640, 480
+  offset: 242, 310
+  index: -1
+FX/starBurst_32
+  rotate: true
+  xy: 972, 4
+  size: 150, 160
+  orig: 640, 480
+  offset: 242, 310
+  index: -1
+FX/starBurst_33
+  rotate: false
+  xy: 342, 157
+  size: 145, 156
+  orig: 640, 480
+  offset: 243, 313
+  index: -1
+FX/starBurst_34
+  rotate: true
+  xy: 668, 7
+  size: 144, 157
+  orig: 640, 480
+  offset: 244, 311
+  index: -1
+FX/starBurst_35
+  rotate: false
+  xy: 830, 2
+  size: 140, 153
+  orig: 640, 480
+  offset: 246, 312
+  index: -1
+FX/starBurst_36
+  rotate: true
+  xy: 2, 5
+  size: 135, 146
+  orig: 640, 480
+  offset: 251, 312
+  index: -1
+FX/starBurst_37
+  rotate: false
+  xy: 1516, 359
+  size: 106, 121
+  orig: 640, 480
+  offset: 258, 332
+  index: -1
+FX/starBurst_38
+  rotate: false
+  xy: 1530, 619
+  size: 76, 29
+  orig: 640, 480
+  offset: 288, 325
+  index: -1
+FX/starBurst_39
+  rotate: false
+  xy: 1516, 329
+  size: 76, 28
+  orig: 640, 480
+  offset: 288, 318
+  index: -1
+FX/starBurst_40
+  rotate: true
+  xy: 489, 272
+  size: 41, 15
+  orig: 640, 480
+  offset: 288, 312
+  index: -1
+FX/starBurst_41
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 640, 480
+  offset: 328, 316
+  index: -1
+FX/starBurst_42
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_43
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_44
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_45
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_46
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_47
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_48
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_49
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_50
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_51
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_52
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_53
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_54
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_55
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_56
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_57
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_58
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/starBurst_59
+  rotate: false
+  xy: 668, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

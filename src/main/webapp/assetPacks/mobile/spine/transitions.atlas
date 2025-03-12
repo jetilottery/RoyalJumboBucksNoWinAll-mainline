@@ -1,0 +1,437 @@
+
+transitions.png
+size: 394,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonusGameSymbol
+  rotate: false
+  xy: 2, 2
+  size: 390, 305
+  orig: 1440, 810
+  offset: 525, 254
+  index: -1
+
+transitions.jpg
+size: 1017,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonusCoverIdle_sweep/bonusCoverIdle_sweep07
+  rotate: false
+  xy: 910, 41
+  size: 52, 59
+  orig: 200, 200
+  offset: 56, 72
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep10
+  rotate: true
+  xy: 709, 32
+  size: 63, 68
+  orig: 200, 200
+  offset: 52, 63
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep12
+  rotate: false
+  xy: 872, 102
+  size: 71, 71
+  orig: 200, 200
+  offset: 48, 62
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep14
+  rotate: false
+  xy: 794, 98
+  size: 76, 75
+  orig: 200, 200
+  offset: 46, 63
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep16
+  rotate: false
+  xy: 624, 93
+  size: 83, 80
+  orig: 200, 200
+  offset: 45, 60
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep18
+  rotate: false
+  xy: 445, 2
+  size: 86, 85
+  orig: 200, 200
+  offset: 46, 59
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep20
+  rotate: false
+  xy: 2, 84
+  size: 87, 89
+  orig: 200, 200
+  offset: 48, 58
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep22
+  rotate: true
+  xy: 91, 87
+  size: 86, 90
+  orig: 200, 200
+  offset: 51, 58
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep24
+  rotate: false
+  xy: 270, 83
+  size: 85, 90
+  orig: 200, 200
+  offset: 53, 59
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep26
+  rotate: false
+  xy: 183, 82
+  size: 85, 91
+  orig: 200, 200
+  offset: 54, 57
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep28
+  rotate: true
+  xy: 535, 89
+  size: 84, 87
+  orig: 200, 200
+  offset: 56, 59
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep30
+  rotate: true
+  xy: 621, 2
+  size: 85, 84
+  orig: 200, 200
+  offset: 57, 61
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep32
+  rotate: false
+  xy: 357, 87
+  size: 86, 86
+  orig: 200, 200
+  offset: 57, 62
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep34
+  rotate: true
+  xy: 533, 2
+  size: 85, 86
+  orig: 200, 200
+  offset: 58, 63
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep36
+  rotate: false
+  xy: 94, 2
+  size: 87, 83
+  orig: 200, 200
+  offset: 58, 64
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep38
+  rotate: false
+  xy: 183, 2
+  size: 90, 78
+  orig: 200, 200
+  offset: 59, 65
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep40
+  rotate: false
+  xy: 2, 2
+  size: 90, 80
+  orig: 200, 200
+  offset: 61, 65
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep42
+  rotate: false
+  xy: 445, 89
+  size: 88, 84
+  orig: 200, 200
+  offset: 64, 65
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep44
+  rotate: false
+  xy: 357, 2
+  size: 85, 83
+  orig: 200, 200
+  offset: 67, 68
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep46
+  rotate: false
+  xy: 709, 97
+  size: 83, 76
+  orig: 200, 200
+  offset: 71, 73
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep48
+  rotate: true
+  xy: 275, 2
+  size: 79, 70
+  orig: 200, 200
+  offset: 76, 77
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep50
+  rotate: false
+  xy: 945, 104
+  size: 69, 69
+  orig: 200, 200
+  offset: 87, 78
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep52
+  rotate: false
+  xy: 779, 28
+  size: 66, 67
+  orig: 200, 200
+  offset: 88, 79
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep54
+  rotate: false
+  xy: 847, 34
+  size: 61, 62
+  orig: 200, 200
+  offset: 90, 80
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep56
+  rotate: false
+  xy: 964, 48
+  size: 51, 54
+  orig: 200, 200
+  offset: 95, 81
+  index: -1
+bonusCoverIdle_sweep/bonusCoverIdle_sweep58
+  rotate: true
+  xy: 910, 6
+  size: 33, 52
+  orig: 200, 200
+  offset: 111, 82
+  index: -1
+
+transitions2.jpg
+size: 998,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PartShower/cover
+  rotate: false
+  xy: 2, 2
+  size: 720, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1
+PartShower/godRays
+  rotate: true
+  xy: 724, 133
+  size: 274, 272
+  orig: 282, 279
+  offset: 6, 1
+  index: -1
+
+transitions2.png
+size: 1374,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yourNumberIdle_tilt/yourNumberIdle_tilt_01
+  rotate: false
+  xy: 1237, 295
+  size: 135, 137
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_03
+  rotate: false
+  xy: 277, 3
+  size: 136, 137
+  orig: 400, 400
+  offset: 132, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_05
+  rotate: false
+  xy: 830, 293
+  size: 136, 139
+  orig: 400, 400
+  offset: 132, 130
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_07
+  rotate: false
+  xy: 833, 9
+  size: 136, 139
+  orig: 400, 400
+  offset: 131, 130
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_09
+  rotate: false
+  xy: 693, 292
+  size: 135, 140
+  orig: 400, 400
+  offset: 131, 129
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_11
+  rotate: false
+  xy: 557, 291
+  size: 134, 141
+  orig: 400, 400
+  offset: 131, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_13
+  rotate: false
+  xy: 685, 148
+  size: 134, 141
+  orig: 400, 400
+  offset: 130, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_15
+  rotate: false
+  xy: 550, 145
+  size: 133, 142
+  orig: 400, 400
+  offset: 129, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_17
+  rotate: false
+  xy: 290, 289
+  size: 132, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_19
+  rotate: false
+  xy: 424, 289
+  size: 131, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_21
+  rotate: false
+  xy: 416, 144
+  size: 132, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_23
+  rotate: false
+  xy: 281, 144
+  size: 133, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_25
+  rotate: false
+  xy: 143, 142
+  size: 136, 144
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_27
+  rotate: false
+  xy: 2, 142
+  size: 139, 144
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_29
+  rotate: false
+  xy: 2, 288
+  size: 142, 144
+  orig: 400, 400
+  offset: 129, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_31
+  rotate: false
+  xy: 146, 289
+  size: 142, 143
+  orig: 400, 400
+  offset: 130, 129
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_33
+  rotate: true
+  xy: 415, 2
+  size: 140, 142
+  orig: 400, 400
+  offset: 132, 130
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_35
+  rotate: false
+  xy: 559, 2
+  size: 135, 141
+  orig: 400, 400
+  offset: 135, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_37
+  rotate: false
+  xy: 821, 150
+  size: 131, 140
+  orig: 400, 400
+  offset: 138, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_39
+  rotate: false
+  xy: 1105, 11
+  size: 128, 139
+  orig: 400, 400
+  offset: 140, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_41
+  rotate: false
+  xy: 1225, 152
+  size: 128, 139
+  orig: 400, 400
+  offset: 140, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_43
+  rotate: false
+  xy: 1106, 293
+  size: 129, 139
+  orig: 400, 400
+  offset: 139, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_45
+  rotate: false
+  xy: 1092, 152
+  size: 131, 139
+  orig: 400, 400
+  offset: 138, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_47
+  rotate: false
+  xy: 971, 11
+  size: 132, 139
+  orig: 400, 400
+  offset: 137, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_49
+  rotate: false
+  xy: 696, 6
+  size: 135, 140
+  orig: 400, 400
+  offset: 135, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_51
+  rotate: false
+  xy: 954, 152
+  size: 136, 139
+  orig: 400, 400
+  offset: 134, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_53
+  rotate: false
+  xy: 968, 293
+  size: 136, 139
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_55
+  rotate: false
+  xy: 2, 2
+  size: 136, 138
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_57
+  rotate: false
+  xy: 140, 2
+  size: 135, 138
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_59
+  rotate: false
+  xy: 1235, 13
+  size: 135, 137
+  orig: 400, 400
+  offset: 133, 131
+  index: -1

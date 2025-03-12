@@ -1,0 +1,3654 @@
+
+coverAnims.png
+size: 956,1089
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst14
+  rotate: true
+  xy: 765, 100
+  size: 150, 131
+  orig: 320, 320
+  offset: 68, 87
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst15
+  rotate: true
+  xy: 803, 265
+  size: 189, 135
+  orig: 320, 320
+  offset: 50, 98
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst16
+  rotate: true
+  xy: 208, 429
+  size: 212, 151
+  orig: 320, 320
+  offset: 44, 104
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst17
+  rotate: false
+  xy: 706, 456
+  size: 224, 143
+  orig: 320, 320
+  offset: 40, 122
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst18
+  rotate: true
+  xy: 213, 643
+  size: 231, 146
+  orig: 320, 320
+  offset: 39, 126
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst19
+  rotate: false
+  xy: 706, 601
+  size: 237, 155
+  orig: 320, 320
+  offset: 38, 129
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst20
+  rotate: false
+  xy: 708, 758
+  size: 242, 161
+  orig: 320, 320
+  offset: 37, 132
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst21
+  rotate: false
+  xy: 708, 921
+  size: 246, 166
+  orig: 320, 320
+  offset: 36, 134
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst22
+  rotate: false
+  xy: 456, 737
+  size: 248, 171
+  orig: 320, 320
+  offset: 36, 134
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst23
+  rotate: false
+  xy: 456, 910
+  size: 250, 177
+  orig: 320, 320
+  offset: 35, 132
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst24
+  rotate: true
+  xy: 204, 197
+  size: 223, 182
+  orig: 320, 320
+  offset: 64, 130
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst25
+  rotate: false
+  xy: 226, 8
+  size: 223, 187
+  orig: 320, 320
+  offset: 65, 128
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst26
+  rotate: false
+  xy: 2, 3
+  size: 222, 192
+  orig: 320, 320
+  offset: 66, 124
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst27
+  rotate: false
+  xy: 361, 539
+  size: 222, 196
+  orig: 320, 320
+  offset: 67, 121
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst28
+  rotate: true
+  xy: 2, 197
+  size: 223, 200
+  orig: 320, 320
+  offset: 67, 117
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst29
+  rotate: true
+  xy: 2, 422
+  size: 225, 204
+  orig: 320, 320
+  offset: 66, 112
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst30
+  rotate: false
+  xy: 228, 882
+  size: 226, 205
+  orig: 320, 320
+  offset: 66, 108
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst31
+  rotate: true
+  xy: 2, 649
+  size: 225, 209
+  orig: 320, 320
+  offset: 67, 102
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst32
+  rotate: false
+  xy: 2, 876
+  size: 224, 211
+  orig: 320, 320
+  offset: 68, 96
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst33
+  rotate: false
+  xy: 592, 252
+  size: 209, 202
+  orig: 320, 320
+  offset: 84, 99
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst34
+  rotate: true
+  xy: 451, 2
+  size: 210, 202
+  orig: 320, 320
+  offset: 84, 92
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst35
+  rotate: true
+  xy: 388, 214
+  size: 212, 202
+  orig: 320, 320
+  offset: 84, 84
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst36
+  rotate: false
+  xy: 585, 535
+  size: 119, 200
+  orig: 320, 320
+  offset: 85, 76
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst37
+  rotate: true
+  xy: 361, 428
+  size: 109, 179
+  orig: 320, 320
+  offset: 85, 88
+  index: -1
+bonusCoverReveal_coinBurst/bonusCoverReveal_coinBurst38
+  rotate: false
+  xy: 655, 72
+  size: 108, 178
+  orig: 320, 320
+  offset: 86, 78
+  index: -1
+
+coverAnims2.png
+size: 1031,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+covers/bonusGameCover
+  rotate: true
+  xy: 221, 8
+  size: 168, 122
+  orig: 400, 400
+  offset: 116, 144
+  index: -1
+covers/bonusGameCover_lid
+  rotate: false
+  xy: 862, 88
+  size: 167, 88
+  orig: 400, 400
+  offset: 117, 178
+  index: -1
+covers/bonusGameCover_lit
+  rotate: false
+  xy: 2, 3
+  size: 217, 173
+  orig: 400, 400
+  offset: 90, 128
+  index: -1
+covers/bonusGameCover_shadow
+  rotate: false
+  xy: 345, 2
+  size: 168, 37
+  orig: 400, 400
+  offset: 116, 135
+  index: -1
+covers/bonusGameSymbolLose
+  rotate: true
+  xy: 862, 3
+  size: 83, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+covers/bonusGameSymbolWin
+  rotate: true
+  xy: 631, 16
+  size: 160, 108
+  orig: 160, 108
+  offset: 0, 0
+  index: -1
+covers/luckyNumberCover
+  rotate: true
+  xy: 741, 35
+  size: 141, 119
+  orig: 143, 119
+  offset: 1, 0
+  index: -1
+covers/luckyNumberCover_BG
+  rotate: false
+  xy: 481, 55
+  size: 148, 121
+  orig: 400, 400
+  offset: 125, 140
+  index: -1
+covers/yourNumberCover
+  rotate: false
+  xy: 345, 41
+  size: 134, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+
+coverAnims.jpg
+size: 340,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/chestGlow
+  rotate: false
+  xy: 2, 2
+  size: 191, 147
+  orig: 320, 320
+  offset: 67, 115
+  index: -1
+FX/lightPing
+  rotate: false
+  xy: 195, 6
+  size: 143, 143
+  orig: 172, 170
+  offset: 13, 18
+  index: -1
+
+coverAnims2.jpg
+size: 1608,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep01
+  rotate: true
+  xy: 1177, 8
+  size: 41, 77
+  orig: 320, 320
+  offset: 93, 119
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep02
+  rotate: false
+  xy: 1543, 226
+  size: 62, 88
+  orig: 320, 320
+  offset: 91, 116
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep03
+  rotate: false
+  xy: 1436, 384
+  size: 66, 90
+  orig: 320, 320
+  offset: 91, 116
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep04
+  rotate: false
+  xy: 1436, 476
+  size: 70, 91
+  orig: 320, 320
+  offset: 90, 116
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep05
+  rotate: false
+  xy: 1521, 19
+  size: 72, 92
+  orig: 320, 320
+  offset: 90, 116
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep06
+  rotate: true
+  xy: 1341, 386
+  size: 75, 93
+  orig: 320, 320
+  offset: 89, 115
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep07
+  rotate: false
+  xy: 1521, 113
+  size: 84, 94
+  orig: 320, 320
+  offset: 89, 115
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep08
+  rotate: true
+  xy: 1508, 377
+  size: 87, 98
+  orig: 320, 320
+  offset: 89, 111
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep09
+  rotate: false
+  xy: 1341, 463
+  size: 93, 104
+  orig: 320, 320
+  offset: 87, 105
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep10
+  rotate: false
+  xy: 1333, 208
+  size: 101, 109
+  orig: 320, 320
+  offset: 82, 101
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep11
+  rotate: false
+  xy: 1230, 456
+  size: 109, 111
+  orig: 320, 320
+  offset: 78, 99
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep12
+  rotate: true
+  xy: 1177, 51
+  size: 114, 110
+  orig: 320, 320
+  offset: 76, 100
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep13
+  rotate: true
+  xy: 1107, 312
+  size: 118, 115
+  orig: 320, 320
+  offset: 75, 101
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep14
+  rotate: true
+  xy: 138, 3
+  size: 121, 120
+  orig: 320, 320
+  offset: 74, 100
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep15
+  rotate: false
+  xy: 1095, 167
+  size: 123, 123
+  orig: 320, 320
+  offset: 73, 99
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep16
+  rotate: true
+  xy: 405, 2
+  size: 131, 129
+  orig: 320, 320
+  offset: 73, 96
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep17
+  rotate: false
+  xy: 1093, 432
+  size: 135, 135
+  orig: 320, 320
+  offset: 73, 93
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep18
+  rotate: false
+  xy: 681, 428
+  size: 137, 139
+  orig: 320, 320
+  offset: 74, 92
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep19
+  rotate: false
+  xy: 546, 139
+  size: 139, 140
+  orig: 320, 320
+  offset: 75, 93
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep20
+  rotate: false
+  xy: 404, 135
+  size: 140, 141
+  orig: 320, 320
+  offset: 76, 93
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep21
+  rotate: false
+  xy: 2, 126
+  size: 141, 144
+  orig: 320, 320
+  offset: 78, 92
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep22
+  rotate: false
+  xy: 141, 276
+  size: 138, 144
+  orig: 320, 320
+  offset: 82, 93
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep23
+  rotate: false
+  xy: 281, 278
+  size: 137, 143
+  orig: 320, 320
+  offset: 83, 94
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep24
+  rotate: false
+  xy: 140, 422
+  size: 137, 145
+  orig: 320, 320
+  offset: 84, 93
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep25
+  rotate: false
+  xy: 2, 420
+  size: 136, 147
+  orig: 320, 320
+  offset: 86, 90
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep26
+  rotate: false
+  xy: 2, 272
+  size: 137, 146
+  orig: 320, 320
+  offset: 86, 90
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep27
+  rotate: false
+  xy: 279, 423
+  size: 136, 144
+  orig: 320, 320
+  offset: 88, 91
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep28
+  rotate: false
+  xy: 557, 284
+  size: 134, 140
+  orig: 320, 320
+  offset: 90, 93
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep29
+  rotate: true
+  xy: 927, 10
+  size: 137, 135
+  orig: 320, 320
+  offset: 90, 97
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep30
+  rotate: true
+  xy: 971, 292
+  size: 136, 134
+  orig: 320, 320
+  offset: 91, 98
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep31
+  rotate: true
+  xy: 955, 430
+  size: 137, 136
+  orig: 320, 320
+  offset: 91, 98
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep32
+  rotate: false
+  xy: 826, 149
+  size: 137, 137
+  orig: 320, 320
+  offset: 91, 99
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep33
+  rotate: false
+  xy: 693, 288
+  size: 137, 138
+  orig: 320, 320
+  offset: 92, 100
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep34
+  rotate: false
+  xy: 687, 143
+  size: 137, 139
+  orig: 320, 320
+  offset: 92, 100
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep35
+  rotate: false
+  xy: 832, 290
+  size: 137, 137
+  orig: 320, 320
+  offset: 93, 100
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep36
+  rotate: true
+  xy: 791, 2
+  size: 139, 134
+  orig: 320, 320
+  offset: 93, 101
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep37
+  rotate: true
+  xy: 551, 426
+  size: 141, 128
+  orig: 320, 320
+  offset: 94, 104
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep38
+  rotate: false
+  xy: 260, 4
+  size: 143, 124
+  orig: 320, 320
+  offset: 95, 104
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep39
+  rotate: true
+  xy: 275, 130
+  size: 144, 127
+  orig: 320, 320
+  offset: 96, 104
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep40
+  rotate: true
+  xy: 145, 130
+  size: 144, 128
+  orig: 320, 320
+  offset: 98, 104
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep41
+  rotate: true
+  xy: 417, 424
+  size: 143, 132
+  orig: 320, 320
+  offset: 100, 104
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep42
+  rotate: true
+  xy: 420, 281
+  size: 141, 135
+  orig: 320, 320
+  offset: 102, 104
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep43
+  rotate: false
+  xy: 651, 2
+  size: 138, 135
+  orig: 320, 320
+  offset: 104, 106
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep44
+  rotate: true
+  xy: 820, 429
+  size: 138, 133
+  orig: 320, 320
+  offset: 106, 108
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep45
+  rotate: true
+  xy: 965, 151
+  size: 137, 128
+  orig: 320, 320
+  offset: 109, 112
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep46
+  rotate: false
+  xy: 2, 3
+  size: 134, 121
+  orig: 320, 320
+  offset: 112, 117
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep47
+  rotate: true
+  xy: 536, 3
+  size: 130, 113
+  orig: 320, 320
+  offset: 117, 122
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep48
+  rotate: true
+  xy: 1064, 20
+  size: 129, 111
+  orig: 320, 320
+  offset: 120, 124
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep49
+  rotate: false
+  xy: 1220, 198
+  size: 111, 112
+  orig: 320, 320
+  offset: 139, 124
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep50
+  rotate: false
+  xy: 1224, 319
+  size: 110, 111
+  orig: 320, 320
+  offset: 140, 125
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep51
+  rotate: false
+  xy: 1289, 87
+  size: 108, 109
+  orig: 320, 320
+  offset: 140, 126
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep52
+  rotate: false
+  xy: 1399, 98
+  size: 107, 108
+  orig: 320, 320
+  offset: 140, 126
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep53
+  rotate: false
+  xy: 1436, 209
+  size: 105, 105
+  orig: 320, 320
+  offset: 140, 127
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep54
+  rotate: true
+  xy: 1508, 466
+  size: 101, 98
+  orig: 320, 320
+  offset: 142, 128
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep55
+  rotate: true
+  xy: 1432, 2
+  size: 94, 87
+  orig: 320, 320
+  offset: 146, 129
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep56
+  rotate: true
+  xy: 1344, 3
+  size: 82, 86
+  orig: 320, 320
+  offset: 152, 129
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep57
+  rotate: true
+  xy: 1521, 316
+  size: 59, 85
+  orig: 320, 320
+  offset: 172, 130
+  index: -1
+FX/bonusCoverIdle_sweep/bonusCoverIdle_sweep58
+  rotate: false
+  xy: 1289, 2
+  size: 53, 83
+  orig: 320, 320
+  offset: 177, 131
+  index: -1
+
+coverAnims3.jpg
+size: 1926,1440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke14
+  rotate: true
+  xy: 1711, 911
+  size: 247, 208
+  orig: 320, 320
+  offset: 39, 45
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke15
+  rotate: false
+  xy: 1644, 71
+  size: 271, 240
+  orig: 320, 320
+  offset: 31, 33
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke16
+  rotate: false
+  xy: 555, 11
+  size: 270, 260
+  orig: 320, 320
+  offset: 29, 26
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke17
+  rotate: false
+  xy: 827, 2
+  size: 275, 271
+  orig: 320, 320
+  offset: 26, 23
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke18
+  rotate: false
+  xy: 1150, 298
+  size: 278, 278
+  orig: 320, 320
+  offset: 25, 21
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke19
+  rotate: false
+  xy: 867, 285
+  size: 281, 283
+  orig: 320, 320
+  offset: 23, 20
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke20
+  rotate: false
+  xy: 1153, 1152
+  size: 283, 286
+  orig: 320, 320
+  offset: 22, 19
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke21
+  rotate: false
+  xy: 867, 1150
+  size: 284, 288
+  orig: 320, 320
+  offset: 22, 19
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke22
+  rotate: false
+  xy: 868, 861
+  size: 284, 287
+  orig: 320, 320
+  offset: 22, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke23
+  rotate: false
+  xy: 581, 860
+  size: 285, 287
+  orig: 320, 320
+  offset: 21, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke24
+  rotate: false
+  xy: 294, 1150
+  size: 285, 288
+  orig: 320, 320
+  offset: 21, 17
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke25
+  rotate: false
+  xy: 579, 275
+  size: 286, 288
+  orig: 320, 320
+  offset: 20, 17
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke26
+  rotate: false
+  xy: 289, 273
+  size: 288, 288
+  orig: 320, 320
+  offset: 18, 17
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke27
+  rotate: true
+  xy: 292, 858
+  size: 288, 287
+  orig: 320, 320
+  offset: 17, 17
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke28
+  rotate: false
+  xy: 2, 1148
+  size: 290, 290
+  orig: 320, 320
+  offset: 15, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke29
+  rotate: true
+  xy: 2, 856
+  size: 290, 288
+  orig: 320, 320
+  offset: 14, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke30
+  rotate: true
+  xy: 2, 563
+  size: 291, 286
+  orig: 320, 320
+  offset: 13, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke31
+  rotate: true
+  xy: 290, 563
+  size: 291, 285
+  orig: 320, 320
+  offset: 12, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke32
+  rotate: true
+  xy: 2, 269
+  size: 292, 285
+  orig: 320, 320
+  offset: 11, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke33
+  rotate: true
+  xy: 577, 565
+  size: 291, 284
+  orig: 320, 320
+  offset: 11, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke34
+  rotate: true
+  xy: 581, 1149
+  size: 289, 284
+  orig: 320, 320
+  offset: 12, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke35
+  rotate: true
+  xy: 863, 570
+  size: 288, 284
+  orig: 320, 320
+  offset: 12, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke36
+  rotate: false
+  xy: 1428, 584
+  size: 274, 282
+  orig: 320, 320
+  offset: 26, 19
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke37
+  rotate: true
+  xy: 1104, 8
+  size: 275, 282
+  orig: 320, 320
+  offset: 26, 19
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke38
+  rotate: false
+  xy: 1154, 868
+  size: 276, 282
+  orig: 320, 320
+  offset: 26, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke39
+  rotate: false
+  xy: 1149, 578
+  size: 277, 281
+  orig: 320, 320
+  offset: 26, 18
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke40
+  rotate: true
+  xy: 1432, 872
+  size: 278, 277
+  orig: 320, 320
+  offset: 26, 21
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke41
+  rotate: true
+  xy: 1438, 1160
+  size: 278, 276
+  orig: 320, 320
+  offset: 26, 22
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke42
+  rotate: true
+  xy: 2, 5
+  size: 262, 276
+  orig: 320, 320
+  offset: 26, 20
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke43
+  rotate: true
+  xy: 280, 9
+  size: 258, 273
+  orig: 320, 320
+  offset: 28, 22
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke44
+  rotate: false
+  xy: 1388, 22
+  size: 254, 274
+  orig: 320, 320
+  offset: 29, 19
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke45
+  rotate: false
+  xy: 1430, 313
+  size: 244, 269
+  orig: 320, 320
+  offset: 33, 21
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke46
+  rotate: false
+  xy: 1676, 322
+  size: 236, 260
+  orig: 320, 320
+  offset: 38, 26
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke47
+  rotate: false
+  xy: 1704, 625
+  size: 220, 245
+  orig: 320, 320
+  offset: 50, 26
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke48
+  rotate: false
+  xy: 1716, 1331
+  size: 166, 107
+  orig: 320, 320
+  offset: 104, 34
+  index: -1
+FX/bonusCoverReveal_smoke/bonusCoverReveal_smoke49
+  rotate: true
+  xy: 1716, 1164
+  size: 165, 104
+  orig: 320, 320
+  offset: 106, 26
+  index: -1
+
+coverAnims4.jpg
+size: 2030,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep00
+  rotate: true
+  xy: 2, 2
+  size: 79, 86
+  orig: 320, 320
+  offset: 93, 117
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep01
+  rotate: false
+  xy: 1744, 272
+  size: 80, 86
+  orig: 320, 320
+  offset: 93, 117
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep02
+  rotate: false
+  xy: 1795, 2
+  size: 80, 87
+  orig: 320, 320
+  offset: 93, 117
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep03
+  rotate: false
+  xy: 1740, 181
+  size: 80, 87
+  orig: 320, 320
+  offset: 93, 117
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep04
+  rotate: false
+  xy: 1805, 92
+  size: 80, 87
+  orig: 320, 320
+  offset: 93, 117
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep05
+  rotate: false
+  xy: 1877, 3
+  size: 80, 87
+  orig: 320, 320
+  offset: 93, 117
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep06
+  rotate: false
+  xy: 1722, 91
+  size: 81, 87
+  orig: 320, 320
+  offset: 93, 117
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep07
+  rotate: false
+  xy: 1656, 180
+  size: 82, 88
+  orig: 320, 320
+  offset: 93, 116
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep08
+  rotate: false
+  xy: 1636, 78
+  size: 84, 88
+  orig: 320, 320
+  offset: 91, 116
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep09
+  rotate: false
+  xy: 1655, 270
+  size: 87, 88
+  orig: 320, 320
+  offset: 88, 116
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep10
+  rotate: true
+  xy: 1566, 168
+  size: 92, 88
+  orig: 320, 320
+  offset: 86, 116
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep11
+  rotate: true
+  xy: 1545, 49
+  size: 95, 89
+  orig: 320, 320
+  offset: 84, 116
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep12
+  rotate: true
+  xy: 1451, 46
+  size: 98, 92
+  orig: 320, 320
+  offset: 82, 116
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep13
+  rotate: false
+  xy: 265, 2
+  size: 109, 95
+  orig: 320, 320
+  offset: 81, 116
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep14
+  rotate: false
+  xy: 596, 2
+  size: 115, 97
+  orig: 320, 320
+  offset: 80, 116
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep15
+  rotate: false
+  xy: 1446, 146
+  size: 118, 103
+  orig: 320, 320
+  offset: 80, 112
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep16
+  rotate: false
+  xy: 1323, 138
+  size: 121, 111
+  orig: 320, 320
+  offset: 80, 109
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep17
+  rotate: false
+  xy: 1190, 243
+  size: 123, 115
+  orig: 320, 320
+  offset: 80, 109
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep18
+  rotate: false
+  xy: 1064, 243
+  size: 124, 115
+  orig: 320, 320
+  offset: 81, 109
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep19
+  rotate: true
+  xy: 1115, 6
+  size: 125, 120
+  orig: 320, 320
+  offset: 81, 107
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep20
+  rotate: true
+  xy: 540, 235
+  size: 123, 128
+  orig: 320, 320
+  offset: 83, 100
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep21
+  rotate: false
+  xy: 527, 101
+  size: 122, 132
+  orig: 320, 320
+  offset: 84, 97
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep22
+  rotate: true
+  xy: 403, 235
+  size: 123, 135
+  orig: 320, 320
+  offset: 87, 94
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep23
+  rotate: true
+  xy: 264, 232
+  size: 126, 137
+  orig: 320, 320
+  offset: 91, 92
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep24
+  rotate: false
+  xy: 2, 220
+  size: 128, 138
+  orig: 320, 320
+  offset: 92, 91
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep25
+  rotate: false
+  xy: 2, 83
+  size: 129, 135
+  orig: 320, 320
+  offset: 93, 92
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep26
+  rotate: false
+  xy: 132, 225
+  size: 130, 133
+  orig: 320, 320
+  offset: 94, 93
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep27
+  rotate: false
+  xy: 133, 90
+  size: 130, 133
+  orig: 320, 320
+  offset: 94, 92
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep28
+  rotate: false
+  xy: 265, 99
+  size: 130, 131
+  orig: 320, 320
+  offset: 94, 95
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep29
+  rotate: true
+  xy: 397, 100
+  size: 130, 128
+  orig: 320, 320
+  offset: 95, 99
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep30
+  rotate: false
+  xy: 670, 238
+  size: 129, 120
+  orig: 320, 320
+  offset: 96, 108
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep31
+  rotate: false
+  xy: 850, 3
+  size: 130, 114
+  orig: 320, 320
+  offset: 96, 114
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep32
+  rotate: false
+  xy: 801, 242
+  size: 132, 116
+  orig: 320, 320
+  offset: 96, 111
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep33
+  rotate: false
+  xy: 651, 115
+  size: 133, 118
+  orig: 320, 320
+  offset: 97, 110
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep34
+  rotate: false
+  xy: 786, 119
+  size: 132, 117
+  orig: 320, 320
+  offset: 99, 110
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep35
+  rotate: false
+  xy: 920, 123
+  size: 130, 117
+  orig: 320, 320
+  offset: 101, 109
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep36
+  rotate: false
+  xy: 935, 243
+  size: 127, 115
+  orig: 320, 320
+  offset: 104, 110
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep37
+  rotate: false
+  xy: 982, 9
+  size: 131, 112
+  orig: 320, 320
+  offset: 105, 113
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep38
+  rotate: false
+  xy: 1188, 134
+  size: 133, 107
+  orig: 320, 320
+  offset: 107, 117
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep39
+  rotate: false
+  xy: 713, 5
+  size: 135, 108
+  orig: 320, 320
+  offset: 109, 118
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep40
+  rotate: false
+  xy: 1052, 133
+  size: 134, 108
+  orig: 320, 320
+  offset: 112, 118
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep41
+  rotate: false
+  xy: 1315, 251
+  size: 132, 107
+  orig: 320, 320
+  offset: 116, 120
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep42
+  rotate: true
+  xy: 1237, 4
+  size: 128, 106
+  orig: 320, 320
+  offset: 120, 122
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep43
+  rotate: true
+  xy: 1345, 16
+  size: 120, 104
+  orig: 320, 320
+  offset: 128, 124
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep44
+  rotate: false
+  xy: 1449, 258
+  size: 115, 100
+  orig: 320, 320
+  offset: 132, 127
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep45
+  rotate: false
+  xy: 483, 2
+  size: 111, 96
+  orig: 320, 320
+  offset: 135, 130
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep46
+  rotate: false
+  xy: 376, 7
+  size: 105, 90
+  orig: 320, 320
+  offset: 139, 135
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep47
+  rotate: true
+  xy: 1566, 262
+  size: 96, 87
+  orig: 320, 320
+  offset: 142, 136
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep48
+  rotate: false
+  xy: 172, 4
+  size: 91, 84
+  orig: 320, 320
+  offset: 142, 136
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep49
+  rotate: true
+  xy: 1822, 186
+  size: 84, 81
+  orig: 320, 320
+  offset: 145, 136
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep50
+  rotate: false
+  xy: 90, 6
+  size: 80, 75
+  orig: 320, 320
+  offset: 148, 136
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep51
+  rotate: false
+  xy: 1636, 6
+  size: 80, 70
+  orig: 320, 320
+  offset: 148, 136
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep52
+  rotate: false
+  xy: 1718, 8
+  size: 75, 68
+  orig: 320, 320
+  offset: 152, 137
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep53
+  rotate: true
+  xy: 1887, 109
+  size: 75, 68
+  orig: 320, 320
+  offset: 152, 137
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep54
+  rotate: true
+  xy: 1826, 284
+  size: 74, 68
+  orig: 320, 320
+  offset: 153, 137
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep55
+  rotate: true
+  xy: 1896, 287
+  size: 71, 68
+  orig: 320, 320
+  offset: 156, 137
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep56
+  rotate: true
+  xy: 1905, 214
+  size: 71, 68
+  orig: 320, 320
+  offset: 156, 137
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep57
+  rotate: false
+  xy: 1957, 144
+  size: 71, 68
+  orig: 320, 320
+  offset: 156, 137
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep58
+  rotate: false
+  xy: 1959, 74
+  size: 68, 68
+  orig: 320, 320
+  offset: 159, 137
+  index: -1
+FX/bonusGameSymbolWin_sweep/bonusGameSymbolWin_sweep59
+  rotate: false
+  xy: 1959, 4
+  size: 68, 68
+  orig: 320, 320
+  offset: 159, 137
+  index: -1
+
+coverAnims5.jpg
+size: 1554,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_01
+  rotate: false
+  xy: 190, 68
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_02
+  rotate: false
+  xy: 1244, 85
+  size: 25, 7
+  orig: 320, 320
+  offset: 104, 122
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_03
+  rotate: false
+  xy: 1488, 185
+  size: 63, 18
+  orig: 320, 320
+  offset: 100, 114
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_04
+  rotate: true
+  xy: 1448, 4
+  size: 67, 21
+  orig: 320, 320
+  offset: 98, 112
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_05
+  rotate: true
+  xy: 759, 6
+  size: 71, 28
+  orig: 320, 320
+  offset: 97, 108
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_06
+  rotate: false
+  xy: 1471, 6
+  size: 76, 34
+  orig: 320, 320
+  offset: 96, 105
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_07
+  rotate: true
+  xy: 1269, 2
+  size: 81, 37
+  orig: 320, 320
+  offset: 95, 103
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_08
+  rotate: false
+  xy: 1448, 73
+  size: 85, 40
+  orig: 320, 320
+  offset: 94, 101
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_09
+  rotate: true
+  xy: 1440, 115
+  size: 88, 46
+  orig: 320, 320
+  offset: 93, 100
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_10
+  rotate: true
+  xy: 1023, 83
+  size: 120, 51
+  orig: 320, 320
+  offset: 92, 99
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_11
+  rotate: true
+  xy: 604, 77
+  size: 126, 56
+  orig: 320, 320
+  offset: 92, 98
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_12
+  rotate: true
+  xy: 253, 73
+  size: 130, 59
+  orig: 320, 320
+  offset: 92, 97
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_13
+  rotate: false
+  xy: 2, 2
+  size: 132, 62
+  orig: 320, 320
+  offset: 92, 96
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_14
+  rotate: false
+  xy: 136, 2
+  size: 135, 63
+  orig: 320, 320
+  offset: 91, 97
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_15
+  rotate: true
+  xy: 2, 66
+  size: 137, 62
+  orig: 320, 320
+  offset: 91, 99
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_16
+  rotate: true
+  xy: 66, 66
+  size: 137, 59
+  orig: 320, 320
+  offset: 91, 103
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_17
+  rotate: true
+  xy: 127, 67
+  size: 136, 61
+  orig: 320, 320
+  offset: 91, 103
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_18
+  rotate: true
+  xy: 190, 71
+  size: 132, 61
+  orig: 320, 320
+  offset: 92, 104
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_19
+  rotate: true
+  xy: 389, 74
+  size: 129, 62
+  orig: 320, 320
+  offset: 92, 105
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_20
+  rotate: true
+  xy: 808, 79
+  size: 124, 65
+  orig: 320, 320
+  offset: 92, 106
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_21
+  rotate: false
+  xy: 273, 2
+  size: 121, 69
+  orig: 320, 320
+  offset: 93, 107
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_22
+  rotate: false
+  xy: 789, 7
+  size: 121, 70
+  orig: 320, 320
+  offset: 95, 109
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_23
+  rotate: true
+  xy: 953, 81
+  size: 122, 68
+  orig: 320, 320
+  offset: 97, 114
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_24
+  rotate: true
+  xy: 739, 79
+  size: 124, 67
+  orig: 320, 320
+  offset: 96, 118
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_25
+  rotate: false
+  xy: 396, 2
+  size: 124, 70
+  orig: 320, 320
+  offset: 96, 119
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_26
+  rotate: true
+  xy: 530, 76
+  size: 127, 72
+  orig: 320, 320
+  offset: 95, 120
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_27
+  rotate: true
+  xy: 314, 74
+  size: 129, 73
+  orig: 320, 320
+  offset: 95, 122
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_28
+  rotate: true
+  xy: 453, 75
+  size: 128, 75
+  orig: 320, 320
+  offset: 95, 123
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_29
+  rotate: true
+  xy: 662, 78
+  size: 125, 75
+  orig: 320, 320
+  offset: 96, 125
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_30
+  rotate: false
+  xy: 635, 2
+  size: 122, 73
+  orig: 320, 320
+  offset: 97, 129
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_31
+  rotate: true
+  xy: 875, 81
+  size: 122, 76
+  orig: 320, 320
+  offset: 97, 132
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_32
+  rotate: false
+  xy: 1029, 3
+  size: 119, 78
+  orig: 320, 320
+  offset: 99, 134
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_33
+  rotate: true
+  xy: 1076, 85
+  size: 118, 82
+  orig: 320, 320
+  offset: 100, 134
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_34
+  rotate: true
+  xy: 1160, 86
+  size: 117, 82
+  orig: 320, 320
+  offset: 100, 136
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_35
+  rotate: false
+  xy: 1150, 2
+  size: 117, 81
+  orig: 320, 320
+  offset: 100, 137
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_36
+  rotate: false
+  xy: 912, 2
+  size: 115, 77
+  orig: 320, 320
+  offset: 101, 142
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_37
+  rotate: false
+  xy: 522, 2
+  size: 111, 71
+  orig: 320, 320
+  offset: 103, 149
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_38
+  rotate: true
+  xy: 1244, 94
+  size: 109, 65
+  orig: 320, 320
+  offset: 104, 155
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_39
+  rotate: true
+  xy: 1311, 97
+  size: 106, 63
+  orig: 320, 320
+  offset: 106, 157
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_40
+  rotate: true
+  xy: 1376, 102
+  size: 101, 62
+  orig: 320, 320
+  offset: 108, 156
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_41
+  rotate: true
+  xy: 1342, 2
+  size: 93, 58
+  orig: 320, 320
+  offset: 113, 159
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_42
+  rotate: true
+  xy: 1402, 8
+  size: 92, 44
+  orig: 320, 320
+  offset: 113, 173
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_43
+  rotate: true
+  xy: 1308, 3
+  size: 89, 32
+  orig: 320, 320
+  offset: 114, 184
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_44
+  rotate: false
+  xy: 1471, 42
+  size: 81, 29
+  orig: 320, 320
+  offset: 117, 186
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_45
+  rotate: false
+  xy: 1488, 159
+  size: 54, 24
+  orig: 320, 320
+  offset: 121, 189
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_46
+  rotate: true
+  xy: 1535, 125
+  size: 32, 13
+  orig: 320, 320
+  offset: 137, 197
+  index: -1
+FX/luckyNumberIdle_sweep/luckyNumberIdle_sweep_47
+  rotate: true
+  xy: 253, 67
+  size: 4, 3
+  orig: 320, 320
+  offset: 141, 203
+  index: -1
+
+coverAnims6.jpg
+size: 910,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_01
+  rotate: false
+  xy: 181, 6
+  size: 67, 25
+  orig: 320, 320
+  offset: 96, 112
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_02
+  rotate: true
+  xy: 770, 132
+  size: 119, 51
+  orig: 320, 320
+  offset: 89, 102
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_03
+  rotate: true
+  xy: 650, 109
+  size: 137, 59
+  orig: 320, 320
+  offset: 88, 103
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_04
+  rotate: true
+  xy: 432, 71
+  size: 147, 65
+  orig: 320, 320
+  offset: 86, 103
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_05
+  rotate: true
+  xy: 591, 388
+  size: 140, 62
+  orig: 320, 320
+  offset: 88, 106
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_06
+  rotate: false
+  xy: 772, 270
+  size: 132, 60
+  orig: 320, 320
+  offset: 91, 110
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_07
+  rotate: false
+  xy: 772, 332
+  size: 135, 58
+  orig: 320, 320
+  offset: 90, 115
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_08
+  rotate: true
+  xy: 718, 392
+  size: 136, 64
+  orig: 320, 320
+  offset: 90, 116
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_09
+  rotate: true
+  xy: 702, 253
+  size: 136, 68
+  orig: 320, 320
+  offset: 90, 116
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_10
+  rotate: true
+  xy: 579, 105
+  size: 138, 69
+  orig: 320, 320
+  offset: 91, 120
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_11
+  rotate: true
+  xy: 569, 245
+  size: 140, 66
+  orig: 320, 320
+  offset: 90, 128
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_12
+  rotate: true
+  xy: 520, 387
+  size: 141, 69
+  orig: 320, 320
+  offset: 88, 130
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_13
+  rotate: true
+  xy: 449, 383
+  size: 145, 69
+  orig: 320, 320
+  offset: 87, 135
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_14
+  rotate: true
+  xy: 437, 233
+  size: 145, 72
+  orig: 320, 320
+  offset: 90, 136
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_15
+  rotate: true
+  xy: 354, 71
+  size: 147, 76
+  orig: 320, 320
+  offset: 90, 137
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_16
+  rotate: true
+  xy: 362, 380
+  size: 148, 85
+  orig: 320, 320
+  offset: 91, 137
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_17
+  rotate: true
+  xy: 264, 63
+  size: 151, 88
+  orig: 320, 320
+  offset: 89, 140
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_18
+  rotate: true
+  xy: 349, 220
+  size: 151, 86
+  orig: 320, 320
+  offset: 92, 144
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_19
+  rotate: true
+  xy: 261, 216
+  size: 155, 86
+  orig: 320, 320
+  offset: 90, 149
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_20
+  rotate: true
+  xy: 281, 373
+  size: 155, 79
+  orig: 320, 320
+  offset: 90, 160
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_21
+  rotate: true
+  xy: 182, 213
+  size: 156, 77
+  orig: 320, 320
+  offset: 84, 159
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_22
+  rotate: true
+  xy: 499, 87
+  size: 144, 78
+  orig: 320, 320
+  offset: 82, 163
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_23
+  rotate: true
+  xy: 181, 33
+  size: 156, 81
+  orig: 320, 320
+  offset: 86, 161
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_24
+  rotate: true
+  xy: 97, 191
+  size: 162, 83
+  orig: 320, 320
+  offset: 80, 160
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_25
+  rotate: true
+  xy: 93, 18
+  size: 163, 86
+  orig: 320, 320
+  offset: 80, 158
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_26
+  rotate: true
+  xy: 191, 373
+  size: 155, 88
+  orig: 320, 320
+  offset: 90, 157
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_27
+  rotate: true
+  xy: 2, 12
+  size: 169, 89
+  orig: 320, 320
+  offset: 77, 157
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_28
+  rotate: true
+  xy: 98, 371
+  size: 157, 91
+  orig: 320, 320
+  offset: 88, 156
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_29
+  rotate: true
+  xy: 2, 183
+  size: 170, 93
+  orig: 320, 320
+  offset: 76, 154
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_30
+  rotate: true
+  xy: 2, 355
+  size: 173, 94
+  orig: 320, 320
+  offset: 74, 154
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_31
+  rotate: false
+  xy: 264, 2
+  size: 143, 59
+  orig: 320, 320
+  offset: 87, 181
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_32
+  rotate: true
+  xy: 511, 238
+  size: 143, 56
+  orig: 320, 320
+  offset: 86, 181
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_33
+  rotate: true
+  xy: 711, 115
+  size: 136, 57
+  orig: 320, 320
+  offset: 72, 181
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_34
+  rotate: true
+  xy: 655, 391
+  size: 137, 61
+  orig: 320, 320
+  offset: 71, 178
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_35
+  rotate: true
+  xy: 637, 248
+  size: 138, 63
+  orig: 320, 320
+  offset: 70, 177
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_36
+  rotate: false
+  xy: 784, 392
+  size: 124, 65
+  orig: 320, 320
+  offset: 84, 176
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_37
+  rotate: false
+  xy: 409, 2
+  size: 125, 67
+  orig: 320, 320
+  offset: 82, 174
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_38
+  rotate: false
+  xy: 784, 459
+  size: 124, 69
+  orig: 320, 320
+  offset: 82, 174
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_39
+  rotate: true
+  xy: 823, 152
+  size: 116, 72
+  orig: 320, 320
+  offset: 82, 172
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_40
+  rotate: true
+  xy: 777, 12
+  size: 118, 72
+  orig: 320, 320
+  offset: 81, 172
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_41
+  rotate: false
+  xy: 536, 11
+  size: 116, 74
+  orig: 320, 320
+  offset: 82, 171
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_42
+  rotate: true
+  xy: 654, 2
+  size: 105, 66
+  orig: 320, 320
+  offset: 94, 180
+  index: -1
+FX/luckyNumberReveal_sparkle/luckyNumberReveal_sparkle_43
+  rotate: true
+  xy: 722, 23
+  size: 90, 53
+  orig: 320, 320
+  offset: 107, 181
+  index: -1
+
+coverAnims7.jpg
+size: 1254,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep00
+  rotate: false
+  xy: 73, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep01
+  rotate: false
+  xy: 73, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep59
+  rotate: false
+  xy: 73, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep02
+  rotate: true
+  xy: 938, 10
+  size: 69, 93
+  orig: 320, 320
+  offset: 123, 119
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep03
+  rotate: false
+  xy: 1174, 417
+  size: 78, 104
+  orig: 320, 320
+  offset: 119, 112
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep04
+  rotate: false
+  xy: 995, 411
+  size: 80, 110
+  orig: 320, 320
+  offset: 118, 110
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep05
+  rotate: false
+  xy: 670, 165
+  size: 81, 115
+  orig: 320, 320
+  offset: 118, 108
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep06
+  rotate: false
+  xy: 107, 2
+  size: 81, 119
+  orig: 320, 320
+  offset: 118, 108
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep07
+  rotate: false
+  xy: 424, 143
+  size: 79, 123
+  orig: 320, 320
+  offset: 119, 107
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep08
+  rotate: false
+  xy: 306, 3
+  size: 76, 127
+  orig: 320, 320
+  offset: 121, 106
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep09
+  rotate: false
+  xy: 237, 261
+  size: 72, 128
+  orig: 320, 320
+  offset: 123, 106
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep10
+  rotate: false
+  xy: 85, 123
+  size: 67, 131
+  orig: 320, 320
+  offset: 126, 106
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep11
+  rotate: false
+  xy: 223, 391
+  size: 64, 130
+  orig: 320, 320
+  offset: 129, 105
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep12
+  rotate: false
+  xy: 151, 390
+  size: 70, 131
+  orig: 320, 320
+  offset: 126, 105
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep13
+  rotate: false
+  xy: 73, 389
+  size: 76, 132
+  orig: 320, 320
+  offset: 123, 105
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep14
+  rotate: false
+  xy: 73, 256
+  size: 82, 131
+  orig: 320, 320
+  offset: 119, 105
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep15
+  rotate: false
+  xy: 247, 132
+  size: 88, 127
+  orig: 320, 320
+  offset: 115, 106
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep16
+  rotate: false
+  xy: 393, 395
+  size: 92, 126
+  orig: 320, 320
+  offset: 113, 106
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep17
+  rotate: false
+  xy: 595, 400
+  size: 98, 121
+  orig: 320, 320
+  offset: 111, 108
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep18
+  rotate: false
+  xy: 2, 2
+  size: 103, 115
+  orig: 320, 320
+  offset: 110, 110
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep19
+  rotate: false
+  xy: 935, 188
+  size: 107, 109
+  orig: 320, 320
+  offset: 109, 113
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep20
+  rotate: true
+  xy: 892, 411
+  size: 110, 101
+  orig: 320, 320
+  offset: 109, 117
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep21
+  rotate: true
+  xy: 736, 49
+  size: 114, 93
+  orig: 320, 320
+  offset: 108, 121
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep22
+  rotate: true
+  xy: 555, 33
+  size: 117, 82
+  orig: 320, 320
+  offset: 108, 127
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep23
+  rotate: true
+  xy: 505, 152
+  size: 120, 72
+  orig: 320, 320
+  offset: 107, 131
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep24
+  rotate: true
+  xy: 384, 12
+  size: 124, 77
+  orig: 320, 320
+  offset: 106, 122
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep25
+  rotate: true
+  xy: 409, 268
+  size: 125, 86
+  orig: 320, 320
+  offset: 106, 117
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep26
+  rotate: true
+  xy: 311, 266
+  size: 126, 96
+  orig: 320, 320
+  offset: 106, 111
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep27
+  rotate: true
+  xy: 487, 397
+  size: 124, 106
+  orig: 320, 320
+  offset: 106, 105
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep28
+  rotate: true
+  xy: 190, 2
+  size: 120, 114
+  orig: 320, 320
+  offset: 107, 99
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep29
+  rotate: false
+  xy: 497, 274
+  size: 113, 121
+  orig: 320, 320
+  offset: 110, 94
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep30
+  rotate: false
+  xy: 289, 394
+  size: 102, 127
+  orig: 320, 320
+  offset: 113, 89
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep31
+  rotate: false
+  xy: 154, 124
+  size: 91, 130
+  orig: 320, 320
+  offset: 117, 86
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep32
+  rotate: false
+  xy: 2, 119
+  size: 81, 132
+  orig: 320, 320
+  offset: 122, 84
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep33
+  rotate: false
+  xy: 2, 388
+  size: 69, 133
+  orig: 320, 320
+  offset: 127, 83
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep34
+  rotate: false
+  xy: 2, 253
+  size: 69, 133
+  orig: 320, 320
+  offset: 125, 83
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep35
+  rotate: false
+  xy: 157, 258
+  size: 78, 130
+  orig: 320, 320
+  offset: 120, 86
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep36
+  rotate: false
+  xy: 337, 138
+  size: 85, 126
+  orig: 320, 320
+  offset: 117, 90
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep37
+  rotate: false
+  xy: 463, 20
+  size: 90, 121
+  orig: 320, 320
+  offset: 115, 94
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep38
+  rotate: false
+  xy: 639, 39
+  size: 95, 115
+  orig: 320, 320
+  offset: 112, 99
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep39
+  rotate: false
+  xy: 1034, 300
+  size: 101, 109
+  orig: 320, 320
+  offset: 108, 103
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep40
+  rotate: true
+  xy: 938, 81
+  size: 105, 102
+  orig: 320, 320
+  offset: 105, 108
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep41
+  rotate: true
+  xy: 1077, 412
+  size: 109, 95
+  orig: 320, 320
+  offset: 102, 112
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep42
+  rotate: true
+  xy: 842, 296
+  size: 111, 87
+  orig: 320, 320
+  offset: 101, 116
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep43
+  rotate: true
+  xy: 753, 167
+  size: 114, 80
+  orig: 320, 320
+  offset: 98, 120
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep44
+  rotate: true
+  xy: 768, 291
+  size: 114, 72
+  orig: 320, 320
+  offset: 98, 126
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep45
+  rotate: true
+  xy: 694, 283
+  size: 115, 72
+  orig: 320, 320
+  offset: 98, 131
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep46
+  rotate: true
+  xy: 612, 282
+  size: 116, 80
+  orig: 320, 320
+  offset: 97, 128
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep47
+  rotate: true
+  xy: 579, 156
+  size: 116, 89
+  orig: 320, 320
+  offset: 97, 124
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep48
+  rotate: true
+  xy: 695, 407
+  size: 114, 94
+  orig: 320, 320
+  offset: 99, 121
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep49
+  rotate: true
+  xy: 791, 409
+  size: 112, 99
+  orig: 320, 320
+  offset: 101, 118
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep50
+  rotate: true
+  xy: 831, 54
+  size: 111, 105
+  orig: 320, 320
+  offset: 102, 115
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep51
+  rotate: false
+  xy: 1137, 207
+  size: 108, 106
+  orig: 320, 320
+  offset: 105, 114
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep52
+  rotate: false
+  xy: 1042, 9
+  size: 105, 108
+  orig: 320, 320
+  offset: 107, 113
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep53
+  rotate: false
+  xy: 931, 299
+  size: 101, 110
+  orig: 320, 320
+  offset: 110, 112
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep54
+  rotate: false
+  xy: 835, 178
+  size: 98, 111
+  orig: 320, 320
+  offset: 111, 111
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep55
+  rotate: true
+  xy: 1137, 315
+  size: 95, 109
+  orig: 320, 320
+  offset: 112, 112
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep56
+  rotate: false
+  xy: 1044, 119
+  size: 90, 106
+  orig: 320, 320
+  offset: 114, 112
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep57
+  rotate: true
+  xy: 1149, 123
+  size: 82, 101
+  orig: 320, 320
+  offset: 117, 114
+  index: -1
+FX/yourNumberIdle_tiltSweep/yourNumberIdle_tiltSweep58
+  rotate: true
+  xy: 1044, 227
+  size: 71, 91
+  orig: 320, 320
+  offset: 122, 120
+  index: -1
+
+coverAnims8.jpg
+size: 2027,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX01
+  rotate: true
+  xy: 1610, 117
+  size: 109, 113
+  orig: 320, 320
+  offset: 109, 102
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX02
+  rotate: false
+  xy: 1262, 78
+  size: 128, 132
+  orig: 320, 320
+  offset: 100, 91
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX03
+  rotate: false
+  xy: 766, 51
+  size: 146, 150
+  orig: 320, 320
+  offset: 92, 82
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX04
+  rotate: false
+  xy: 405, 26
+  size: 163, 166
+  orig: 320, 320
+  offset: 85, 74
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX05
+  rotate: false
+  xy: 223, 10
+  size: 180, 182
+  orig: 320, 320
+  offset: 77, 65
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX06
+  rotate: false
+  xy: 570, 7
+  size: 194, 194
+  orig: 320, 320
+  offset: 72, 59
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX07
+  rotate: false
+  xy: 1055, 3
+  size: 205, 207
+  orig: 320, 320
+  offset: 67, 54
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX08
+  rotate: true
+  xy: 1392, 2
+  size: 218, 216
+  orig: 320, 320
+  offset: 60, 49
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX09
+  rotate: true
+  xy: 1788, 31
+  size: 227, 228
+  orig: 320, 320
+  offset: 57, 43
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX10
+  rotate: false
+  xy: 1786, 489
+  size: 238, 237
+  orig: 320, 320
+  offset: 52, 38
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX11
+  rotate: false
+  xy: 1541, 228
+  size: 245, 245
+  orig: 320, 320
+  offset: 50, 35
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX12
+  rotate: false
+  xy: 1296, 475
+  size: 250, 251
+  orig: 320, 320
+  offset: 46, 32
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX13
+  rotate: false
+  xy: 1043, 212
+  size: 254, 255
+  orig: 320, 320
+  offset: 42, 31
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX14
+  rotate: true
+  xy: 785, 205
+  size: 259, 256
+  orig: 320, 320
+  offset: 38, 32
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX15
+  rotate: true
+  xy: 530, 466
+  size: 260, 258
+  orig: 320, 320
+  offset: 37, 32
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX16
+  rotate: true
+  xy: 264, 194
+  size: 266, 258
+  orig: 320, 320
+  offset: 31, 32
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX17
+  rotate: true
+  xy: 2, 194
+  size: 266, 260
+  orig: 320, 320
+  offset: 31, 30
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX18
+  rotate: true
+  xy: 2, 462
+  size: 264, 263
+  orig: 320, 320
+  offset: 32, 27
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX19
+  rotate: true
+  xy: 267, 464
+  size: 262, 261
+  orig: 320, 320
+  offset: 32, 28
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX20
+  rotate: false
+  xy: 524, 203
+  size: 259, 259
+  orig: 320, 320
+  offset: 33, 30
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX21
+  rotate: false
+  xy: 790, 469
+  size: 255, 257
+  orig: 320, 320
+  offset: 34, 31
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX22
+  rotate: false
+  xy: 1047, 471
+  size: 247, 255
+  orig: 320, 320
+  offset: 35, 32
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX23
+  rotate: false
+  xy: 1299, 222
+  size: 240, 251
+  orig: 320, 320
+  offset: 36, 34
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX24
+  rotate: false
+  xy: 1548, 479
+  size: 236, 247
+  orig: 320, 320
+  offset: 38, 34
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX25
+  rotate: true
+  xy: 1788, 260
+  size: 227, 237
+  orig: 320, 320
+  offset: 42, 36
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX26
+  rotate: true
+  xy: 2, 19
+  size: 173, 219
+  orig: 320, 320
+  offset: 50, 39
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX27
+  rotate: false
+  xy: 914, 53
+  size: 139, 150
+  orig: 320, 320
+  offset: 67, 44
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX28
+  rotate: true
+  xy: 1262, 19
+  size: 57, 80
+  orig: 320, 320
+  offset: 96, 69
+  index: -1
+FX/yourNumberReveal_BGFX/yourNumberReveal_BGFX29
+  rotate: false
+  xy: 2, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+coverAnims9.jpg
+size: 1964,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX01
+  rotate: false
+  xy: 322, 4
+  size: 9, 13
+  orig: 320, 320
+  offset: 156, 156
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX02
+  rotate: false
+  xy: 642, 2
+  size: 17, 25
+  orig: 320, 320
+  offset: 154, 152
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX03
+  rotate: true
+  xy: 1560, 5
+  size: 28, 36
+  orig: 320, 320
+  offset: 149, 148
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX04
+  rotate: false
+  xy: 1863, 6
+  size: 39, 45
+  orig: 320, 320
+  offset: 144, 145
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX05
+  rotate: true
+  xy: 1880, 198
+  size: 50, 55
+  orig: 320, 320
+  offset: 139, 141
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX06
+  rotate: true
+  xy: 1863, 53
+  size: 59, 64
+  orig: 320, 320
+  offset: 135, 138
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX07
+  rotate: true
+  xy: 1881, 512
+  size: 70, 73
+  orig: 320, 320
+  offset: 130, 134
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX08
+  rotate: true
+  xy: 1881, 584
+  size: 79, 81
+  orig: 320, 320
+  offset: 125, 131
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX09
+  rotate: false
+  xy: 1802, 250
+  size: 89, 89
+  orig: 320, 320
+  offset: 120, 128
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX10
+  rotate: false
+  xy: 1702, 240
+  size: 98, 99
+  orig: 320, 320
+  offset: 116, 123
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX11
+  rotate: false
+  xy: 1753, 4
+  size: 108, 108
+  orig: 320, 320
+  offset: 111, 118
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX12
+  rotate: false
+  xy: 1836, 358
+  size: 116, 116
+  orig: 320, 320
+  offset: 107, 114
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX13
+  rotate: false
+  xy: 1753, 114
+  size: 125, 124
+  orig: 320, 320
+  offset: 102, 109
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX14
+  rotate: true
+  xy: 1702, 341
+  size: 133, 132
+  orig: 320, 320
+  offset: 98, 104
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX15
+  rotate: false
+  xy: 642, 29
+  size: 141, 141
+  orig: 320, 320
+  offset: 94, 99
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX16
+  rotate: true
+  xy: 322, 19
+  size: 149, 147
+  orig: 320, 320
+  offset: 90, 95
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX17
+  rotate: true
+  xy: 165, 12
+  size: 156, 155
+  orig: 320, 320
+  offset: 86, 90
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX18
+  rotate: false
+  xy: 2, 5
+  size: 161, 163
+  orig: 320, 320
+  offset: 83, 85
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX19
+  rotate: true
+  xy: 471, 3
+  size: 167, 169
+  orig: 320, 320
+  offset: 80, 81
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX20
+  rotate: false
+  xy: 785, 3
+  size: 173, 176
+  orig: 320, 320
+  offset: 76, 76
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX21
+  rotate: true
+  xy: 960, 5
+  size: 178, 182
+  orig: 320, 320
+  offset: 73, 72
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX22
+  rotate: false
+  xy: 1697, 476
+  size: 182, 187
+  orig: 320, 320
+  offset: 70, 68
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX23
+  rotate: false
+  xy: 1508, 470
+  size: 187, 193
+  orig: 320, 320
+  offset: 68, 64
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX24
+  rotate: false
+  xy: 1560, 35
+  size: 191, 198
+  orig: 320, 320
+  offset: 65, 60
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX25
+  rotate: false
+  xy: 1505, 235
+  size: 195, 204
+  orig: 320, 320
+  offset: 62, 56
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX26
+  rotate: false
+  xy: 1359, 11
+  size: 199, 208
+  orig: 320, 320
+  offset: 60, 52
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX27
+  rotate: true
+  xy: 1144, 3
+  size: 201, 213
+  orig: 320, 320
+  offset: 58, 48
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX28
+  rotate: false
+  xy: 1299, 221
+  size: 204, 218
+  orig: 320, 320
+  offset: 56, 44
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX29
+  rotate: false
+  xy: 1299, 441
+  size: 207, 222
+  orig: 320, 320
+  offset: 54, 41
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX30
+  rotate: false
+  xy: 1089, 206
+  size: 208, 225
+  orig: 320, 320
+  offset: 53, 38
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX31
+  rotate: false
+  xy: 1089, 433
+  size: 208, 230
+  orig: 320, 320
+  offset: 51, 34
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX32
+  rotate: false
+  xy: 876, 430
+  size: 211, 233
+  orig: 320, 320
+  offset: 49, 31
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX33
+  rotate: false
+  xy: 875, 185
+  size: 212, 235
+  orig: 320, 320
+  offset: 48, 29
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX34
+  rotate: false
+  xy: 659, 181
+  size: 214, 239
+  orig: 320, 320
+  offset: 47, 26
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX35
+  rotate: false
+  xy: 658, 422
+  size: 216, 241
+  orig: 320, 320
+  offset: 46, 24
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX36
+  rotate: false
+  xy: 440, 172
+  size: 217, 244
+  orig: 320, 320
+  offset: 45, 21
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX37
+  rotate: false
+  xy: 222, 418
+  size: 217, 245
+  orig: 320, 320
+  offset: 45, 19
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX38
+  rotate: false
+  xy: 2, 418
+  size: 218, 245
+  orig: 320, 320
+  offset: 44, 18
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX39
+  rotate: false
+  xy: 2, 170
+  size: 217, 246
+  orig: 320, 320
+  offset: 44, 16
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX40
+  rotate: false
+  xy: 221, 170
+  size: 217, 246
+  orig: 320, 320
+  offset: 44, 15
+  index: -1
+FX/yourNumberReveal_FGFX/yourNumberReveal_FGFX41
+  rotate: false
+  xy: 441, 418
+  size: 215, 245
+  orig: 320, 320
+  offset: 45, 15
+  index: -1
+
+coverAnims3.png
+size: 351,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+luckyNumberReveal_distort/luckyNumberReveal_distort_00
+  rotate: false
+  xy: 2, 227
+  size: 114, 95
+  orig: 320, 320
+  offset: 103, 113
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_01
+  rotate: false
+  xy: 122, 325
+  size: 114, 95
+  orig: 320, 320
+  offset: 103, 113
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_02
+  rotate: false
+  xy: 2, 131
+  size: 114, 94
+  orig: 320, 320
+  offset: 103, 114
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_03
+  rotate: false
+  xy: 2, 36
+  size: 114, 93
+  orig: 320, 320
+  offset: 103, 115
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_04
+  rotate: true
+  xy: 118, 90
+  size: 114, 92
+  orig: 320, 320
+  offset: 103, 116
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_05
+  rotate: true
+  xy: 209, 209
+  size: 114, 93
+  orig: 320, 320
+  offset: 103, 115
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_06
+  rotate: false
+  xy: 122, 422
+  size: 115, 96
+  orig: 320, 320
+  offset: 103, 112
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_07
+  rotate: false
+  xy: 2, 421
+  size: 118, 97
+  orig: 320, 320
+  offset: 101, 111
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_08
+  rotate: false
+  xy: 2, 324
+  size: 118, 95
+  orig: 320, 320
+  offset: 101, 113
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_09
+  rotate: true
+  xy: 118, 206
+  size: 116, 89
+  orig: 320, 320
+  offset: 102, 119
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_10
+  rotate: false
+  xy: 239, 436
+  size: 110, 82
+  orig: 320, 320
+  offset: 105, 126
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_11
+  rotate: false
+  xy: 118, 12
+  size: 112, 76
+  orig: 320, 320
+  offset: 104, 132
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_12
+  rotate: true
+  xy: 212, 93
+  size: 114, 68
+  orig: 320, 320
+  offset: 103, 140
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_13
+  rotate: true
+  xy: 282, 95
+  size: 112, 61
+  orig: 320, 320
+  offset: 104, 147
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_14
+  rotate: false
+  xy: 239, 379
+  size: 110, 55
+  orig: 320, 320
+  offset: 105, 153
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_15
+  rotate: false
+  xy: 238, 329
+  size: 111, 48
+  orig: 320, 320
+  offset: 105, 160
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_16
+  rotate: true
+  xy: 304, 219
+  size: 108, 44
+  orig: 320, 320
+  offset: 106, 167
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_17
+  rotate: false
+  xy: 232, 52
+  size: 104, 39
+  orig: 320, 320
+  offset: 108, 173
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_18
+  rotate: false
+  xy: 2, 5
+  size: 102, 29
+  orig: 320, 320
+  offset: 109, 180
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_19
+  rotate: false
+  xy: 232, 30
+  size: 94, 20
+  orig: 320, 320
+  offset: 113, 186
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_20
+  rotate: false
+  xy: 232, 14
+  size: 94, 14
+  orig: 320, 320
+  offset: 113, 191
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_21
+  rotate: false
+  xy: 232, 2
+  size: 76, 10
+  orig: 320, 320
+  offset: 122, 197
+  index: -1
+luckyNumberReveal_distort/luckyNumberReveal_distort_22
+  rotate: false
+  xy: 304, 212
+  size: 38, 5
+  orig: 320, 320
+  offset: 141, 202
+  index: -1
+
+coverAnims4.png
+size: 1728,691
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yourNumberIdle_tilt/yourNumberIdle_tilt_00
+  rotate: true
+  xy: 145, 290
+  size: 135, 137
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_01
+  rotate: true
+  xy: 284, 290
+  size: 135, 137
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_02
+  rotate: true
+  xy: 141, 152
+  size: 136, 137
+  orig: 400, 400
+  offset: 132, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_03
+  rotate: true
+  xy: 280, 152
+  size: 136, 137
+  orig: 400, 400
+  offset: 132, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_04
+  rotate: true
+  xy: 419, 151
+  size: 136, 139
+  orig: 400, 400
+  offset: 132, 130
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_05
+  rotate: true
+  xy: 560, 151
+  size: 136, 139
+  orig: 400, 400
+  offset: 132, 130
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_06
+  rotate: true
+  xy: 280, 12
+  size: 137, 139
+  orig: 400, 400
+  offset: 131, 130
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_07
+  rotate: true
+  xy: 701, 150
+  size: 136, 139
+  orig: 400, 400
+  offset: 131, 130
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_08
+  rotate: true
+  xy: 842, 148
+  size: 136, 140
+  orig: 400, 400
+  offset: 131, 129
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_09
+  rotate: true
+  xy: 423, 289
+  size: 135, 140
+  orig: 400, 400
+  offset: 131, 129
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_10
+  rotate: true
+  xy: 565, 289
+  size: 135, 140
+  orig: 400, 400
+  offset: 131, 129
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_11
+  rotate: true
+  xy: 1580, 421
+  size: 134, 141
+  orig: 400, 400
+  offset: 131, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_12
+  rotate: true
+  xy: 707, 288
+  size: 135, 141
+  orig: 400, 400
+  offset: 130, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_13
+  rotate: true
+  xy: 2, 291
+  size: 134, 141
+  orig: 400, 400
+  offset: 130, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_14
+  rotate: true
+  xy: 719, 425
+  size: 133, 142
+  orig: 400, 400
+  offset: 130, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_15
+  rotate: true
+  xy: 863, 423
+  size: 133, 142
+  orig: 400, 400
+  offset: 129, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_16
+  rotate: true
+  xy: 1007, 423
+  size: 133, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_17
+  rotate: true
+  xy: 1563, 557
+  size: 132, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_18
+  rotate: true
+  xy: 2, 427
+  size: 132, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_19
+  rotate: true
+  xy: 990, 558
+  size: 131, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_20
+  rotate: true
+  xy: 1135, 558
+  size: 131, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_21
+  rotate: true
+  xy: 147, 427
+  size: 132, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_22
+  rotate: true
+  xy: 292, 427
+  size: 132, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_23
+  rotate: true
+  xy: 1152, 423
+  size: 133, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_24
+  rotate: true
+  xy: 850, 286
+  size: 135, 143
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_25
+  rotate: true
+  xy: 984, 148
+  size: 136, 144
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_26
+  rotate: true
+  xy: 564, 10
+  size: 138, 144
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_27
+  rotate: true
+  xy: 710, 7
+  size: 139, 144
+  orig: 400, 400
+  offset: 129, 127
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_28
+  rotate: true
+  xy: 856, 6
+  size: 140, 144
+  orig: 400, 400
+  offset: 129, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_29
+  rotate: true
+  xy: 1291, 3
+  size: 142, 144
+  orig: 400, 400
+  offset: 129, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_30
+  rotate: true
+  xy: 1437, 2
+  size: 142, 144
+  orig: 400, 400
+  offset: 129, 128
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_31
+  rotate: true
+  xy: 1583, 2
+  size: 142, 143
+  orig: 400, 400
+  offset: 130, 129
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_32
+  rotate: true
+  xy: 1146, 5
+  size: 141, 143
+  orig: 400, 400
+  offset: 131, 129
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_33
+  rotate: true
+  xy: 1002, 6
+  size: 140, 142
+  orig: 400, 400
+  offset: 132, 130
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_34
+  rotate: true
+  xy: 421, 12
+  size: 137, 141
+  orig: 400, 400
+  offset: 134, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_35
+  rotate: true
+  xy: 995, 286
+  size: 135, 141
+  orig: 400, 400
+  offset: 135, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_36
+  rotate: true
+  xy: 1297, 423
+  size: 133, 140
+  orig: 400, 400
+  offset: 137, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_37
+  rotate: true
+  xy: 1280, 558
+  size: 131, 140
+  orig: 400, 400
+  offset: 138, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_38
+  rotate: true
+  xy: 566, 560
+  size: 129, 140
+  orig: 400, 400
+  offset: 139, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_39
+  rotate: true
+  xy: 2, 561
+  size: 128, 139
+  orig: 400, 400
+  offset: 140, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_40
+  rotate: true
+  xy: 143, 561
+  size: 128, 139
+  orig: 400, 400
+  offset: 140, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_41
+  rotate: true
+  xy: 284, 561
+  size: 128, 139
+  orig: 400, 400
+  offset: 140, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_42
+  rotate: true
+  xy: 425, 561
+  size: 128, 139
+  orig: 400, 400
+  offset: 140, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_43
+  rotate: true
+  xy: 708, 560
+  size: 129, 139
+  orig: 400, 400
+  offset: 139, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_44
+  rotate: true
+  xy: 849, 560
+  size: 129, 139
+  orig: 400, 400
+  offset: 139, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_45
+  rotate: true
+  xy: 1422, 558
+  size: 131, 139
+  orig: 400, 400
+  offset: 138, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_46
+  rotate: true
+  xy: 437, 426
+  size: 132, 139
+  orig: 400, 400
+  offset: 137, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_47
+  rotate: true
+  xy: 578, 426
+  size: 132, 139
+  orig: 400, 400
+  offset: 137, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_48
+  rotate: true
+  xy: 1439, 422
+  size: 133, 139
+  orig: 400, 400
+  offset: 136, 132
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_49
+  rotate: true
+  xy: 1138, 286
+  size: 135, 140
+  orig: 400, 400
+  offset: 135, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_50
+  rotate: true
+  xy: 1280, 286
+  size: 135, 140
+  orig: 400, 400
+  offset: 135, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_51
+  rotate: true
+  xy: 1130, 148
+  size: 136, 139
+  orig: 400, 400
+  offset: 134, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_52
+  rotate: true
+  xy: 1271, 148
+  size: 136, 139
+  orig: 400, 400
+  offset: 134, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_53
+  rotate: true
+  xy: 1412, 147
+  size: 136, 139
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_54
+  rotate: true
+  xy: 1553, 146
+  size: 136, 138
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_55
+  rotate: false
+  xy: 2, 14
+  size: 136, 138
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_56
+  rotate: true
+  xy: 140, 14
+  size: 136, 138
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_57
+  rotate: true
+  xy: 1422, 285
+  size: 135, 138
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_58
+  rotate: true
+  xy: 1562, 284
+  size: 135, 137
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+yourNumberIdle_tilt/yourNumberIdle_tilt_59
+  rotate: true
+  xy: 2, 154
+  size: 135, 137
+  orig: 400, 400
+  offset: 133, 131
+  index: -1
+
+coverAnims5.png
+size: 605,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yourNumberReveal_Spin/yourNumberReveal_Spin00
+  rotate: true
+  xy: 488, 168
+  size: 109, 110
+  orig: 320, 320
+  offset: 106, 105
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin01
+  rotate: true
+  xy: 329, 175
+  size: 115, 123
+  orig: 320, 320
+  offset: 102, 101
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin02
+  rotate: true
+  xy: 329, 292
+  size: 123, 131
+  orig: 320, 320
+  offset: 96, 96
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin03
+  rotate: false
+  xy: 479, 449
+  size: 124, 141
+  orig: 320, 320
+  offset: 90, 90
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin04
+  rotate: false
+  xy: 488, 9
+  size: 106, 157
+  orig: 320, 320
+  offset: 94, 82
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin05
+  rotate: false
+  xy: 92, 58
+  size: 61, 176
+  orig: 320, 320
+  offset: 118, 72
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin06
+  rotate: false
+  xy: 2, 58
+  size: 88, 176
+  orig: 320, 320
+  offset: 109, 72
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin07
+  rotate: false
+  xy: 169, 237
+  size: 158, 175
+  orig: 320, 320
+  offset: 79, 73
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin08
+  rotate: false
+  xy: 2, 414
+  size: 173, 176
+  orig: 320, 320
+  offset: 73, 73
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin09
+  rotate: false
+  xy: 177, 415
+  size: 145, 175
+  orig: 320, 320
+  offset: 89, 73
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin10
+  rotate: false
+  xy: 119, 236
+  size: 48, 176
+  orig: 320, 320
+  offset: 143, 72
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin11
+  rotate: false
+  xy: 2, 236
+  size: 115, 176
+  orig: 320, 320
+  offset: 115, 72
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin12
+  rotate: false
+  xy: 155, 59
+  size: 170, 175
+  orig: 320, 320
+  offset: 77, 73
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin13
+  rotate: false
+  xy: 324, 417
+  size: 153, 173
+  orig: 320, 320
+  offset: 73, 74
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin14
+  rotate: true
+  xy: 2, 2
+  size: 54, 172
+  orig: 320, 320
+  offset: 118, 74
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin15
+  rotate: false
+  xy: 479, 279
+  size: 123, 168
+  orig: 320, 320
+  offset: 95, 76
+  index: -1
+yourNumberReveal_Spin/yourNumberReveal_Spin16
+  rotate: false
+  xy: 327, 14
+  size: 159, 159
+  orig: 320, 320
+  offset: 80, 81
+  index: -1

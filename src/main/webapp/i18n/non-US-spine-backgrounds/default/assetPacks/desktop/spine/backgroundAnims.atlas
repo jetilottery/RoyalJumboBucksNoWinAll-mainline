@@ -1,0 +1,80 @@
+
+backgroundAnims.jpg
+size: 1444,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/RoyalJumboBucks_Landscape_Non_US
+  rotate: false
+  xy: 2, 814
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+BG/RoyalJumboBucks_Landscape_bonus_Non_US
+  rotate: false
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+
+backgroundAnims2.jpg
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/RoyalJumboBucks_Portrait_Background_Non_US
+  rotate: false
+  xy: 2, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+BG/RoyalJumboBucks_Portrait_Background_bonus_Non_US
+  rotate: false
+  xy: 814, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+
+backgroundAnims3.jpg
+size: 1444,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/landscape_background
+  rotate: false
+  xy: 2, 814
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+BG/landscape_bonusBackground
+  rotate: false
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+
+backgroundAnims4.jpg
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/portrait_background
+  rotate: false
+  xy: 2, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+BG/portrait_bonusBackground
+  rotate: false
+  xy: 814, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1

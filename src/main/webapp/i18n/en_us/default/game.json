@@ -1,0 +1,89 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Number Match Win",
+    "descriptionText2": "Bonus Win"
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN",
+      "TRY": "DEMO WIN"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "MOVE TO MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_autoReveal": "AUTO REVEAL",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+    "button_retry": "RETRY",
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "TOTAL WIN",
+      "TRY": "TOTAL DEMO WIN"
+    },
+
+    "howToPlay": "HOW TO PLAY",
+    "page1": "Match any Your Numbers to any Lucky Numbers and win a prize.\n\nReveal a Golden 2x symbol to double the prize amount shown below.\n\nReveal a Silver Shield and win all prizes instantly.\n\nReveal 5 Bonus Key symbols in Your Numbers to enter the Bonus game.",
+    "page2": "BONUS GAME\n\nFind 3 or more Ruby Necklaces to win a prize.\n\nReveal 3 Silver X symbols or win the top prize to end the Bonus game.",
+
+    "winUpToText": "WIN UP TO",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "NO BONUS WIN",
+    "bonusWin": "BONUS: {0}",
+
+    "winAll":"WIN ALL",
+    "bonusLives":"FIND 3 X's TO END BONUS",
+    "bonusInfo":"FIND 3 OR MORE NECKLACES TO WIN!",
+    
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

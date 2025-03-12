@@ -1,0 +1,174 @@
+
+bonusMeterFX.jpg
+size: 1322,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/bonusMeter_highlight_00
+  rotate: false
+  xy: 273, 3
+  size: 6, 3
+  orig: 480, 320
+  offset: 96, 208
+  index: -1
+FX/bonusMeter_highlight_01
+  rotate: false
+  xy: 182, 192
+  size: 38, 26
+  orig: 480, 320
+  offset: 94, 186
+  index: -1
+FX/bonusMeter_highlight_02
+  rotate: false
+  xy: 530, 6
+  size: 69, 48
+  orig: 480, 320
+  offset: 93, 165
+  index: -1
+FX/bonusMeter_highlight_03
+  rotate: false
+  xy: 971, 450
+  size: 101, 71
+  orig: 480, 320
+  offset: 91, 144
+  index: -1
+FX/bonusMeter_highlight_04
+  rotate: true
+  xy: 1074, 74
+  size: 149, 122
+  orig: 480, 320
+  offset: 76, 124
+  index: -1
+FX/bonusMeter_highlight_05
+  rotate: true
+  xy: 138, 4
+  size: 177, 129
+  orig: 480, 320
+  offset: 78, 111
+  index: -1
+FX/bonusMeter_highlight_06
+  rotate: true
+  xy: 399, 12
+  size: 207, 129
+  orig: 480, 320
+  offset: 78, 109
+  index: -1
+FX/bonusMeter_highlight_07
+  rotate: false
+  xy: 971, 225
+  size: 239, 146
+  orig: 480, 320
+  offset: 78, 92
+  index: -1
+FX/bonusMeter_highlight_08
+  rotate: false
+  xy: 803, 62
+  size: 269, 159
+  orig: 480, 320
+  offset: 78, 79
+  index: -1
+FX/bonusMeter_highlight_09
+  rotate: true
+  xy: 501, 222
+  size: 299, 156
+  orig: 480, 320
+  offset: 78, 82
+  index: -1
+FX/bonusMeter_highlight_10
+  rotate: true
+  xy: 814, 225
+  size: 296, 155
+  orig: 480, 320
+  offset: 92, 83
+  index: -1
+FX/bonusMeter_highlight_11
+  rotate: true
+  xy: 659, 223
+  size: 298, 153
+  orig: 480, 320
+  offset: 93, 85
+  index: -1
+FX/bonusMeter_highlight_12
+  rotate: true
+  xy: 345, 221
+  size: 300, 154
+  orig: 480, 320
+  offset: 95, 84
+  index: -1
+FX/bonusMeter_highlight_13
+  rotate: true
+  xy: 182, 220
+  size: 301, 161
+  orig: 480, 320
+  offset: 106, 85
+  index: -1
+FX/bonusMeter_highlight_14
+  rotate: false
+  xy: 530, 56
+  size: 271, 164
+  orig: 480, 320
+  offset: 137, 84
+  index: -1
+FX/bonusMeter_highlight_15
+  rotate: false
+  xy: 1074, 373
+  size: 240, 148
+  orig: 480, 320
+  offset: 167, 85
+  index: -1
+FX/bonusMeter_highlight_16
+  rotate: true
+  xy: 269, 8
+  size: 210, 128
+  orig: 480, 320
+  offset: 198, 85
+  index: -1
+FX/bonusMeter_highlight_17
+  rotate: true
+  xy: 2, 3
+  size: 178, 134
+  orig: 480, 320
+  offset: 229, 77
+  index: -1
+FX/bonusMeter_highlight_18
+  rotate: true
+  xy: 1198, 74
+  size: 149, 122
+  orig: 480, 320
+  offset: 259, 75
+  index: -1
+FX/bonusMeter_highlight_19
+  rotate: false
+  xy: 1212, 285
+  size: 107, 86
+  orig: 480, 320
+  offset: 290, 91
+  index: -1
+FX/bonusMeter_highlight_20
+  rotate: false
+  xy: 601, 8
+  size: 71, 46
+  orig: 480, 320
+  offset: 320, 110
+  index: -1
+FX/bonusMeter_highlight_21
+  rotate: false
+  xy: 222, 193
+  size: 37, 25
+  orig: 480, 320
+  offset: 351, 111
+  index: -1
+FX/bonusMeter_highlight_22
+  rotate: false
+  xy: 269, 2
+  size: 2, 4
+  orig: 480, 320
+  offset: 382, 111
+  index: -1
+FX/lightBurst
+  rotate: true
+  xy: 2, 183
+  size: 338, 178
+  orig: 480, 320
+  offset: 74, 74
+  index: -1

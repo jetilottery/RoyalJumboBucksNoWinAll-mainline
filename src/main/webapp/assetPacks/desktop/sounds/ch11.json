@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch11.mp3",
+    "ch11.ogg",
+    "ch11.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "WinAll_CountEnd": [
+      1050,
+      2213.0385487528342
+    ],
+    "WinAll_Revealed": [
+      4100,
+      3337.210884353741
+    ]
+  }
+}

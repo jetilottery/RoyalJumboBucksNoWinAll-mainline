@@ -1,0 +1,21 @@
+{"frames": {
+
+"portrait_bonusBackground":
+{
+	"frame": {"x":1,"y":1,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "backgrounds-1.jpg",
+	"format": "RGB888",
+	"size": {"w":812,"h":1442},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:48747c9f143f7888aef6b501623865b7:5fd32322f8f3be7e319604c051d3dfb8:0afc5bcf1e1f32598d3b927fad730b64$"
+}
+}
